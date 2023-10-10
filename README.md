@@ -6,4 +6,3 @@ This project was developed with the intention of practicing my skills with HTML 
 # Content
 - A card view
 - HTML + CSS
-- This project is responsive
